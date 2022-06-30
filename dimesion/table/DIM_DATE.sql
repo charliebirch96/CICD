@@ -1,0 +1,6 @@
+create or replace TABLE DIM_DATE (
+	DATE_ID NUMBER(38,0),
+	DAY NUMBER(38,0),
+	MONTH NUMBER(38,0),
+	YEAR NUMBER(38,0)
+);
